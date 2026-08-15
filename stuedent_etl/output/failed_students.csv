@@ -1,0 +1,51 @@
+Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date
+INVALID,Manoj K,INVALID,9876543210,Python Programming,INVALID,Chennai,2025-05-23
+INVALID,Priya S,priya.s@yahoo.com,INVALID,Machine Learning,INVALID,Coimbatore,2025-05-06
+INVALID,Ravi Kumar,INVALID,9123456789,Python Programming,INVALID,Madurai,2025-02-19
+INVALID,Anitha R,anitha@gmail.com,9000011111,Machine Learning,INVALID,Chennai,2025-04-05
+INVALID,Karthik,INVALID,INVALID,Python Programming,INVALID,INVALID,2025-02-08
+INVALID,Deepa M,deepam@gmail.com,8123456789,Data Science,INVALID,Salem,2025-03-09
+INVALID,Suresh T,INVALID,7654321098,Python Programming,INVALID,Trichy,2025-01-14
+INVALID,Kavitha,kavitha99@gmail.com,9988776655,Machine Learning,INVALID,Chennai,2025-01-15
+INVALID,Rajesh Kk,INVALID,8877665544,Python Programming,INVALID,Coimbatore,2025-05-15
+INVALID,Nithya R,nithyar@yahoo.com,9765432109,Data Science,INVALID,Madurai,2025-04-25
+INVALID,Arun P,arunp@gmail.com,7788990011,Python Programming,INVALID,Chennai,2025-06-17
+INVALID,Meena D,INVALID,INVALID,Machine Learning,INVALID,Salem,2025-02-21
+INVALID,Santhosh V,santhoshv@gmail.com,9900112233,Python Programming,INVALID,Trichy,2025-01-26
+INVALID,Lakshmi,INVALID,8811223344,Data Science,INVALID,Chennai,2025-03-07
+INVALID,Vijay S,vijays@yahoo.com,9922334455,Machine Learning,INVALID,Coimbatore,2025-04-24
+INVALID,Pooja N,poojan@gmail.com,9090909090,Python Programming,INVALID,INVALID,2025-02-16
+INVALID,Dinesh R,INVALID,8080808080,Data Science,INVALID,Madurai,2025-02-23
+INVALID,Saranya,saranya22@gmail.com,INVALID,Python Programming,INVALID,Chennai,2025-02-11
+INVALID,Bala K,INVALID,7070707070,Machine Learning,INVALID,Salem,2025-06-12
+INVALID,Revathi M,revathim@yahoo.com,9191919191,Machine Learning,INVALID,Trichy,2025-06-12
+INVALID,Muthu S,muthus@gmail.com,8282828282,Python Programming,INVALID,Chennai,2025-02-24
+INVALID,Geetha,INVALID,9393939393,Data Science,INVALID,Coimbatore,2025-05-08
+INVALID,Prasanth J,prasanthj@gmail.com,7474747474,Python Programming,INVALID,Madurai,2025-03-05
+INVALID,Divya P,divyap@yahoo.com,8585858585,Machine Learning,INVALID,Chennai,2025-06-10
+INVALID,Senthil K,INVALID,INVALID,Python Programming,INVALID,Trichy,2025-05-15
+INVALID,Janaki R,janakir@gmail.com,9696969696,Data Science,INVALID,Salem,2025-05-02
+INVALID,Ramesh M,INVALID,7878787878,Python Programming,INVALID,Chennai,2025-03-01
+INVALID,Usha D,ushad@gmail.com,8989898989,Machine Learning,INVALID,Madurai,2025-04-21
+INVALID,Gopal V,INVALID,9010101010,Python Programming,INVALID,Coimbatore,2025-01-12
+INVALID,Thenmozhi,thenmozhi@gmail.com,8121212121,Machine Learning,INVALID,INVALID,2025-04-13
+INVALID,Arjun C,arjunc@gmail.com,7232323232,Python Programming,INVALID,Trichy,2025-01-15
+INVALID,Swetha L,INVALID,INVALID,Data Science,INVALID,Chennai,2025-05-26
+INVALID,Naveen B,naveenb@gmail.com,9343434343,Python Programming,INVALID,Salem,2025-06-23
+INVALID,Mala S,malas@yahoo.com,8454545454,Machine Learning,INVALID,Chennai,2025-03-21
+INVALID,Karthi P,INVALID,7565656565,Python Programming,INVALID,Coimbatore,2025-02-14
+INVALID,Suganya T,suganyt@gmail.com,9676767676,Data Science,INVALID,Madurai,2025-04-10
+INVALID,Venkat R,INVALID,8787878787,Python Programming,INVALID,Trichy,2025-02-12
+INVALID,Indira K,indirak@gmail.com,INVALID,Machine Learning,INVALID,Chennai,2025-06-01
+INVALID,Mohan J,mohanj@yahoo.com,9898989898,Python Programming,INVALID,Salem,2025-01-23
+INVALID,Dharani S,INVALID,7909090909,Data Science,INVALID,INVALID,2025-04-19
+INVALID,Kishore M,kishorem@gmail.com,8010101010,Machine Learning,INVALID,Chennai,2025-02-21
+INVALID,Padma V,INVALID,9121212121,Python Programming,INVALID,Coimbatore,2025-03-22
+INVALID,Balaji T,balajit@gmail.com,7232323232,Data Science,INVALID,Madurai,2025-03-17
+INVALID,Rekha N,rekhan@yahoo.com,INVALID,Python Programming,INVALID,Chennai,2025-02-05
+INVALID,Selvam K,INVALID,8343434343,Machine Learning,INVALID,Salem,2025-02-28
+INVALID,Chitra R,chitrar@gmail.com,9454545454,Machine Learning,INVALID,Trichy,2025-03-15
+INVALID,Ganesh P,INVALID,7565656565,Python Programming,INVALID,Chennai,2025-06-27
+INVALID,Latha S,lathas@gmail.com,8676767676,Data Science,INVALID,Coimbatore,2025-04-04
+INVALID,Suresh B,INVALID,INVALID,Python Programming,INVALID,Madurai,2025-04-20
+INVALID,Ammu K,ammuk@gmail.com,9787878787,Machine Learning,INVALID,Chennai,2025-02-13
